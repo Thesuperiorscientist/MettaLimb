@@ -1,0 +1,5 @@
+component,raw_value,raw_unit,normalized,weight,source
+waste,1.44,million tons (2020),0.177,0.40,Our World in Data (2020)
+need,7.6,% disability rate,0.076,0.30,2024 Myanmar Census
+readiness,74,% PET recycling (Yangon),0.740,0.20,Statista / Eurasia Group and Suntory
+gap,21.5,% unmet need,0.215,0.10,rATA Survey (2021)
